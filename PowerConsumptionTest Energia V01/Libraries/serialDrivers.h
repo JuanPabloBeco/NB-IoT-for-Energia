@@ -12,14 +12,12 @@ void initializeModemPins();
 
 void greenLedON();
 void greenLedOFF();
-void ledVerdeONOFF();
 void redLedON();
 void redLedOFF();
-void ledRojoONOFF();
 void PowerKeyON();
 void PowerKeyOFF();
-void PowerKeyONOFF();
-
+void ResetON();
+void ResetOFF();
 
 
 #endif /* SERIALDRIVERS_H_ */
@@ -39,7 +37,7 @@ void PowerKeyONOFF();
 
 
 
-int reiniciar(){
+int restart(){
     int status;
     modemONOFF();
     sleep(4000);
@@ -60,8 +58,8 @@ int getNetworkStatus(){
     return digitalRead(modemNetlightPin);
 }
 
-void send2Modem(char* paraEnviar){
-    modemSerial.print(paraEnviar);
+void send2Modem(char* message){
+    modemSerial.print(message);
 }
 
 
