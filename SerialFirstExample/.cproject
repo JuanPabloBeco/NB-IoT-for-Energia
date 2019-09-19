@@ -106,19 +106,19 @@
 							</tool>
 						</toolChain>
 					</folderInfo>
-					<fileInfo id="com.ti.ccstudio.buildDefinitions.MSP430.Debug.151868504.PowerConsumptionTest Energia V01.ino" name="PowerConsumptionTest Energia V01.ino" rcbsApplicability="override" resourcePath="SerialPrintLineExample.ino" toolsToInvoke="org.eclipse.cdt.managedbuilder.ui.rcbs.1147111159.156401437.1783849322">
-						<tool id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.exe.compilerDebug.1951630262.128605447" name="GNU Compiler" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.exe.compilerDebug.1951630262">
-							<inputType id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__C_SRCS.302720126" name="C Sources" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__C_SRCS"/>
-							<inputType id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__CPP_SRCS.1633753587" name="C++ Sources" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__CPP_SRCS"/>
-							<inputType id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__ASM_SRCS.420506770" name="Assembly Sources" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__ASM_SRCS"/>
-							<inputType id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__ASM2_SRCS.1116822891" name="Assembly Sources" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__ASM2_SRCS"/>
+					<fileInfo id="com.ti.ccstudio.buildDefinitions.MSP430.Debug.151868504.SerialReadStringExample.ino" name="SerialReadStringExample.ino" rcbsApplicability="override" resourcePath="SerialFirstExample.ino" toolsToInvoke="org.eclipse.cdt.managedbuilder.ui.rcbs.1970471328">
+						<tool id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.exe.compilerDebug.1951630262.586748998" name="GNU Compiler" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.exe.compilerDebug.1951630262">
+							<inputType id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__C_SRCS.2115384844" name="C Sources" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__C_SRCS"/>
+							<inputType id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__CPP_SRCS.1129520271" name="C++ Sources" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__CPP_SRCS"/>
+							<inputType id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__ASM_SRCS.933518350" name="Assembly Sources" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__ASM_SRCS"/>
+							<inputType id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__ASM2_SRCS.1678516896" name="Assembly Sources" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__ASM2_SRCS"/>
 						</tool>
-						<tool customBuildStep="true" id="org.eclipse.cdt.managedbuilder.ui.rcbs.1147111159.156401437.1783849322" name="Resource Custom Build Step">
-							<outputType id="org.eclipse.cdt.managedbuilder.ui.rcbs.outputtype.1160721503.2103205946.1499127881" name="Resource Custom Build Step Output Type" outputNames="PowerConsumptionTest Energia V01.cpp"/>
+						<tool customBuildStep="true" id="org.eclipse.cdt.managedbuilder.ui.rcbs.1970471328" name="Resource Custom Build Step">
+							<outputType id="org.eclipse.cdt.managedbuilder.ui.rcbs.outputtype.1285831870" name="Resource Custom Build Step Output Type" outputNames="SerialFirstExample.cpp"/>
 						</tool>
 					</fileInfo>
 					<sourceEntries>
-						<entry excluding="Debug/PowerConsumptionTest Energia V01.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="SerialFirstExample.ino|Debug/SerialDriversExample.cpp|Debug/SerialReadStringExample.cpp|Debug/PowerConsumptionTest Energia V01.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -228,15 +228,15 @@
 							</tool>
 						</toolChain>
 					</folderInfo>
-					<fileInfo id="com.ti.ccstudio.buildDefinitions.MSP430.Release.1905984755.PowerConsumptionTest Energia V01.ino" name="PowerConsumptionTest Energia V01.ino" rcbsApplicability="override" resourcePath="SerialPrintLineExample.ino" toolsToInvoke="org.eclipse.cdt.managedbuilder.ui.rcbs.1890656523.1496981204.219868524">
-						<tool id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.exe.compilerRelease.2122003793.604783168" name="GNU Compiler" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.exe.compilerRelease.2122003793">
-							<inputType id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__C_SRCS.1025663368" name="C Sources" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__C_SRCS"/>
-							<inputType id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__CPP_SRCS.531995412" name="C++ Sources" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__CPP_SRCS"/>
-							<inputType id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__ASM_SRCS.496061124" name="Assembly Sources" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__ASM_SRCS"/>
-							<inputType id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__ASM2_SRCS.185463643" name="Assembly Sources" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__ASM2_SRCS"/>
+					<fileInfo id="com.ti.ccstudio.buildDefinitions.MSP430.Release.1905984755.SerialReadStringExample.ino" name="SerialReadStringExample.ino" rcbsApplicability="override" resourcePath="SerialFirstExample.ino" toolsToInvoke="org.eclipse.cdt.managedbuilder.ui.rcbs.1234294321">
+						<tool id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.exe.compilerRelease.2122003793.1877158775" name="GNU Compiler" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.exe.compilerRelease.2122003793">
+							<inputType id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__C_SRCS.947599420" name="C Sources" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__C_SRCS"/>
+							<inputType id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__CPP_SRCS.1481702487" name="C++ Sources" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__CPP_SRCS"/>
+							<inputType id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__ASM_SRCS.1807299964" name="Assembly Sources" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__ASM_SRCS"/>
+							<inputType id="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__ASM2_SRCS.1752821035" name="Assembly Sources" superClass="com.ti.ccstudio.buildDefinitions.MSP430_GNU_4.0.compiler.inputType__ASM2_SRCS"/>
 						</tool>
-						<tool customBuildStep="true" id="org.eclipse.cdt.managedbuilder.ui.rcbs.1890656523.1496981204.219868524" name="Resource Custom Build Step">
-							<outputType id="org.eclipse.cdt.managedbuilder.ui.rcbs.outputtype.625856449.714793760.885438913" name="Resource Custom Build Step Output Type" outputNames="PowerConsumptionTest Energia V01.cpp"/>
+						<tool customBuildStep="true" id="org.eclipse.cdt.managedbuilder.ui.rcbs.1234294321" name="Resource Custom Build Step">
+							<outputType id="org.eclipse.cdt.managedbuilder.ui.rcbs.outputtype.1558558149" name="Resource Custom Build Step Output Type" outputNames="SerialFirstExample.cpp"/>
 						</tool>
 					</fileInfo>
 				</configuration>

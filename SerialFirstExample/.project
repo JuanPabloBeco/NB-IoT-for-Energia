@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>PowerConsumptionTest Energia V01</name>
+	<name>SerialFirstExample</name>
 	<comment></comment>
 	<projects>
 		<project>msp430_MSP-EXP430FR5969LP_core</project>
