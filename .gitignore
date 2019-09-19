@@ -296,3 +296,4 @@ App_Data/*.ldf
 .launches
 .jxbrowser-data
 /.metadata/
+msp430_MSP-EXP430F5529LP_core/.settings/
